@@ -1,3 +1,9 @@
+/* 5. Write a recursive program to print Fibonacci Series for given number of terms?
+
+ Input number of terms for the Series (< 20) : 10                                
+ The Series are :                                                                
+ 1  1  2  3  5  8  13  21  34  55 */
+
 public class Que5 {
   
 	static int num1 = 1;//first two numbers of the series
