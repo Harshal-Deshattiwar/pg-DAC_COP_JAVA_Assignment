@@ -1,4 +1,4 @@
-package com.Section_9;
+//1. Write a java program to print first 10 natural number using recursion?
 
 public class Que1 {
 	static final int limit = 10;
