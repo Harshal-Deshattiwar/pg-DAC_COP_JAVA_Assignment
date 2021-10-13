@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /* 5. Write a recursive program to print Fibonacci Series for given number of terms?
 
  Input number of terms for the Series (< 20) : 10                                
