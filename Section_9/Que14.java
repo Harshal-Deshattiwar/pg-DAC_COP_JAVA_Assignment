@@ -6,7 +6,7 @@ import java.util.Scanner;
  The Series are :                                                                
  1  1  2  3  5  8  13  21  34  55 */
 
-public class Que5 {
+public class Que14 {
   
 	static int num1 = 1;//first two numbers of the series
 	static int num2 = 1;
@@ -23,7 +23,7 @@ public class Que5 {
 		
 		System.out.print(" " + find);
 		
-		Que5.series(iter-1);
+		Que14.series(iter-1);
 		
 		}
 		
@@ -50,7 +50,7 @@ public class Que5 {
 			//as first 2 number of Fibonacci Series is 1 and 1 so (number - 2) and iter for rest numbers
 			int iter = number - 2;  
 			System.out.print("Fibonacci Series : " +num1 + " " + num2);
-			Que5.series(iter);
+			Que14.series(iter);
 		}
 		sc.close();
 	}
